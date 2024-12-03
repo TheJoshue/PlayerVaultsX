@@ -21,7 +21,7 @@ package com.drtshock.playervaults;
 import com.drtshock.playervaults.commands.ConsoleCommand;
 import com.drtshock.playervaults.commands.ConvertCommand;
 import com.drtshock.playervaults.commands.DeleteCommand;
-import com.drtshock.playervaults.commands.HelpMeCommand;
+//import com.drtshock.playervaults.commands.HelpMeCommand;
 import com.drtshock.playervaults.commands.SignCommand;
 import com.drtshock.playervaults.commands.SignSetInfo;
 import com.drtshock.playervaults.commands.TicketInfoCommand;
